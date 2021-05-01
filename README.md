@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @androG30(Gaurav)
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 🌱 I’m currently learning Flutter,Data visualization
+- 💞️ I’m looking to collaborate on Flutter,Data prediction 
 - 📫 How to reach me  https://www.gauravnaik.info
 
 <!---
